@@ -23,9 +23,9 @@ $locale['material_005'] = 'Fixed Menu';
 $locale['material_006'] = 'Fixed Sidebar';
 $locale['material_007'] = 'Fixed Footer Errors';
 $locale['material_008'] = 'Full Screen';
-$locale['material_009'] = 'Messages';
+$locale['material_009'] = 'Wiadomości';
 $locale['material_010'] = 'Read';
-$locale['material_011'] = 'New Message';
+$locale['material_011'] = 'Nowa wiadomość';
 $locale['material_012'] = 'There are no messages';
 $locale['material_013'] = 'Created by';
 // Result Messages
